@@ -18,6 +18,5 @@ Guided by: Professor Stephanie Langelend
 10. sex: Gender of the patient (presumably 0 for Female, 1 for Male)
 11. smoking: Whether the patient smokes (0 for No, 1 for Yes)
 12. time: Time (not specified if it's in days, weeks, or months)
-13. criticality_rank: Ranking of the patient's criticality (higher rank presumably indicates higher risk) (created for this project)
+13. criticality_rank: Ranking of the patient's criticality (higher rank presumably indicates higher risk) **(created for this project)**
 14. DEATH_EVENT: Whether the patient had a heart failure event (0 for No, 1 for Yes)
-<img width="654" alt="image" src="https://github.com/darshjoshi/heart_failure_prediction/assets/46282088/bb54c5b5-6253-4281-8edc-eeca181efc58">
